@@ -101,10 +101,10 @@
 				<div id="wrapper">
 					<div id="outer">
 						<div class="itemwrapper desc">
-							<img src="images/image 8.jpg" alt="image" />
+							<img class="image" src="images/image 8.jpg" alt="image" />
 						</div>
 						<div class="itemwrapper">
-							<img src="images/image 9.jpg" alt="image" />
+							<img class="image" src="images/image 9.jpg" alt="image" />
 						</div>
 					</div>
 				</div>
