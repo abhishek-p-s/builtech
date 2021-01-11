@@ -47,7 +47,7 @@
 	<!-- Aj style  -->
 	<link rel="stylesheet" href="css/aj-style.css?v6">
 	<!-- Ab style  -->
-	<link rel="stylesheet" href="css/ab-style.css">
+	<link rel="stylesheet" href="css/ab-style.css?v6">
 	<!-- Modernizr JS -->
 	<script src="js/modernizr-2.6.2.min.js"></script>
 	<!--widgets-->

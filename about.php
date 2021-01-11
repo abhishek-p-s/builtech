@@ -66,17 +66,17 @@
 		<aside id="bt-hero" class="js-fullheight">
 			<div class="flexslider js-fullheight">
 				<ul class="slides">
-					<li class="bt-hp-banner-1" style="background-image: url(images/projects/Rectangle.png );">
+					<li class="ab_bt-hp-banner-1" style="background-image: url(images/projects/Rectangle.png );">
 						<div class="overlay"></div>
 						<div class="container-fluid">
 							<div class="row">
 								<div class="col-md-6 col-sm-12 col-xs-12 js-fullheight slider-text">
 									<!-- col-md-offset-3 col-md-push-3 -->
 									<div class="slider-text-inner">
-										<div class="desc">
-											<div class="desc-inner top">
+										<div class="ab_desc">
+											<div class="ab_desc-inner top">
 												<h2>About Us</h2>
-												<p class="pr-intro">Being the pioneer of the apartment concept in Palakkad, Builtech stands tall on the foundation of its values - delivering quality, redefining customer lifestyles, cost effectiveness, time bound delivery ensuring customer
+												<p class="ab_pr-intro">Being the pioneer of the apartment concept in Palakkad, Builtech stands tall on the foundation of its values - delivering quality, redefining customer lifestyles, cost effectiveness, time bound delivery ensuring customer
 													satisfaction and a proven track-record of post sales service.
 													It’s philosophy is founded on transparent dealings and maintaining ever lasting relationships with customers. Builtech’s credibility and good will has been meticulously developed over 35 years of integrity and highly satisfied customers.</p>
 												<a href="about.php" class="btn btn-primary btn-learn">Contact Us</a>
