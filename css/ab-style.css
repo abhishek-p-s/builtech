@@ -179,33 +179,35 @@ img.image {
 #bt-main {
     background-color: #eff0f1;
     max-width: 100%;
+    height: 103vh;
 }
 
 h1 {
     color: #355D88;
     padding: 3rem;
     font-size: 35px;
-    font-weight: 250;
+    font-weight: 350;
 }
 
 p.para1 {
     color: #355D88;
     font-size: 16px;
     font-weight: 500;
-    margin-left: 7rem;
+    margin-left: 4rem;
     margin-top: 2rem;
-    width: 90%;
+    width: 80%;
+    line-height: 1.3em;
 }
 
 .img1 {
-    width: 25rem;
-    margin-left: 7rem;
+    width: 70%;
     margin-top: 0rem;
 }
 
 .img2 {
-    width: 23rem;
+    width: 68%;
     margin-left: 7rem;
+    position: relative;
 }
 
 p.para2 {
@@ -213,38 +215,48 @@ p.para2 {
     font-size: 16px;
     font-weight: 500;
     margin-left: 0%;
-    margin-top: 2rem;
-    width: 90%;
+    margin-top: 5rem;
+    width: 80%;
     text-align: right;
+    line-height: 1.3em;
 }
 
-.tab-head1 {
-    font-family: "Fira Sans", sans-serif;
-    font-size: 1.1em;
-    display: inline-block;
-    width: 37%;
-    height: 27%;
-    margin-top: -10rem;
-    background-color: rgba(53, 93, 136, 0.6);
-    color: #fff;
+.board1 {
+    color: #ffff;
     text-align: center;
-    border-top-right-radius: 15px;
+    background: #355D88 !important;
     border-bottom-left-radius: 15px;
-    cursor: pointer;
+    border-top-right-radius: 15px;
+    max-width: 65%;
+    height: 5rem;
+    text-transform: unset;
+    position: absolute;
+    top: 25rem;
+    width: 25rem;
+    right: 28rem;
 }
 
-.tab-head2 {
-    font-family: "Fira Sans", sans-serif;
-    font-size: 1.1em;
-    display: inline-block;
-    width: 37%;
-    height: 21%;
-    margin-left: 27rem;
-    margin-top: -4rem;
-    background-color: rgba(53, 93, 136, 0.6);
-    color: #fff;
+.board2 {
+    color: #ffff;
     text-align: center;
-    border-top-right-radius: 15px;
+    background: #355D88 !important;
     border-bottom-left-radius: 15px;
-    cursor: pointer;
+    border-top-right-radius: 15px;
+    max-width: 65%;
+    height: 5rem;
+    text-transform: unset;
+    position: absolute;
+    top: 24rem;
+    width: 25rem;
+    left: 25rem;
+}
+
+.name {
+    color: #ffff;
+}
+
+.designation {
+    font-size: 13px;
+    font-weight: 400;
+    padding: .5rem;
 }
