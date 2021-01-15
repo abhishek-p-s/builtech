@@ -39,31 +39,6 @@ p.para {
     width: 100%;
 }
 
-#wrapper {
-    max-width: 410px;
-    margin: 60px auto 60px auto;
-    background-color: #eff0f1;
-    margin-left: 3rem;
-    margin-top: 1rem;
-}
-
-#outer {
-    display: table;
-    width: 100%;
-    table-layout: fixed;
-}
-
-.itemwrapper {
-    display: table-cell;
-    vertical-align: top;
-    width: 100%;
-}
-
-img.image {
-    max-width: 100%;
-    height: auto;
-}
-
 
 /*second section about page */
 
@@ -277,5 +252,18 @@ p.para2 {
     .section2 {
         margin-right: 25%;
         margin-top: 10%
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .bt_line {
+        width: 30px;
+        height: 3px;
+        background-color: #000;
+        display: block;
+        margin: 5px auto;
+        -webkit-transition: all 0.3s ease-in-out;
+        -o-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
     }
 }
