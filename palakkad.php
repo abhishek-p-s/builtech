@@ -180,6 +180,11 @@
                     </a>
                 </div>
             </div>
+            <div class="col-md-12">
+                <a href="./images/image 21.png">
+                    <img class="img-responsive" src="./images/image 21.png">
+                </a>
+            </div>
         </div>
     </div>
 </div>
