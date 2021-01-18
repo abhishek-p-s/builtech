@@ -10,7 +10,8 @@
 	<meta name="keywords" content="" />
 	<meta name="author" content="" />
 	<link rel="icon" type="image/png" href="images/favicon.png">
-
+	<!-- lightgallery -->
+	<link rel="stylesheet" href="css/lightgallery.min.css">
 	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content="" />
 	<meta property="og:image" content="" />
@@ -50,6 +51,14 @@
 	<link rel="stylesheet" href="css/aj-style.css?v6">
 	<!-- Ab style  -->
 	<link rel="stylesheet" href="css/ab-style.css?v6">
+	<link rel="stylesheet" href="css/ab_pala_style.css?v6">
+	<!-- jQuery version must be >= 1.8.0; -->
+	<script src="jquery.min.js"></script>
+
+	<script src="js/lightgallery.min.js"></script>
+	<!-- lightgallery plugins -->
+	<script src="js/lg-fullscreen.min.js"></script>
+	<script src="js/lg-thumbnail.min.js"></script>
 	<!-- Modernizr JS -->
 	<script src="js/modernizr-2.6.2.min.js"></script>
 	<!--widgets-->
